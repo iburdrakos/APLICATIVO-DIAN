@@ -586,6 +586,7 @@ class ValidatorTab(QWidget):
             "Total INC",
             "Total Bolsas",
             "Otros Impuestos",
+            "IBUA",
             "ICUI",
             "Rete Fuente",
             "Rete IVA",
